@@ -8,4 +8,4 @@ Please use the link below to download the zipped folder for the DSCI_619 data fi
 
 ## Link to the Google Drive
 
-(DSCI_619_zipped) [https://drive.google.com/file/d/1qzAH8HIpLVnLN9_rjOZn80tZ4Qu1pwxp/view?usp=sharing]
+[DSCI_619_zipped](https://drive.google.com/file/d/1qzAH8HIpLVnLN9_rjOZn80tZ4Qu1pwxp/view?usp=sharing)
