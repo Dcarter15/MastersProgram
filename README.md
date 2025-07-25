@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! Welcome to the repo for my Master's of Artificial Intelligence program. I am a little over halfway done at the moment. So far I have learned a lot and am ready to start applying these skills to my career.
+Hello! Welcome to the repo for my Master's of Artificial Intelligence program. I am almost done! I am in the middle of my capstone now. So far I have learned a lot and am ready to start applying these skills to my career.
 
 ## Classes
 
