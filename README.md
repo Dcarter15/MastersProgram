@@ -10,3 +10,4 @@ Hello! Welcome to the repo for my Master's of Artificial Intelligence program. I
 * DSCI_508: Machine Learning
 * DSCI_619: Deep Learning
 * MATH_509: Mathematics for AI
+* COSC_523: Image Processing
