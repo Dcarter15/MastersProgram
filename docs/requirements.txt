@@ -1,0 +1,9 @@
+transformers==4.35.2
+torch==2.0.1
+opencv-python==4.8.0.74
+numpy==1.24.3
+pytest==7.4.0
+pycocotools==2.0.7
+Pillow==10.0.0
+timm==0.9.16
+yt-dlp
