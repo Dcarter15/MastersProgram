@@ -11,3 +11,6 @@ Hello! Welcome to the repo for my Master's of Artificial Intelligence program. I
 * DSCI_619: Deep Learning
 * MATH_509: Mathematics for AI
 * COSC_523: Image Processing
+* COSC_635: Reinforcement Learning
+* COCS_643: Ethics of AI
+
